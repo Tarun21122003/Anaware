@@ -1,0 +1,5 @@
+filename,hash,timestamp,status
+.DS_Store,24a5dcc03a9e45b18b2951d755ec176a801d6cbb4f518d21dec4c969be2a4458,2025-02-10 01:37:03,success
+Windows Internals Part 1_6th Edition.pdf,ERROR - [Errno 13] Permission denied: 'C:\\ReceivedFiles\\Windows Internals Part 1_6th Edition.pdf',2025-02-10 01:37:03,error
+Windows System Internals 7e Part 1.pdf,058d7677bc338246f1df73c66785d2e7275f5d0e025ba117bac9c33f95c96298,2025-02-10 01:37:04,success
+Windows System Internals 7e Part 1.pdf,ERROR - [Errno 13] Permission denied: 'C:\\ReceivedFiles\\Windows System Internals 7e Part 1.pdf',2025-02-10 01:38:02,error

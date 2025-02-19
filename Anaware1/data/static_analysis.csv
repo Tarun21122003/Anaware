@@ -1,0 +1,4 @@
+Timestamp,File Name,Number of Malicious Paths,Entropy,Suspicious PE Headers
+2025-02-11 19:29:25,Malware1.py,0,4.26,None
+2025-02-11 19:29:25,Malware2.py,0,4.74,None
+2025-02-11 19:29:25,reset_vm.sh,0,5.19,None

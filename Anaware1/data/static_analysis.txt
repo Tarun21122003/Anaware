@@ -1,0 +1,28 @@
+
+
+Analysis Results - 2025-02-11 19:29:25
+
+==================================================
+Analysis for: Malware1.py
+==================================================
+String Analysis:
+- Number of suspicious paths: 0
+
+Entropy Analysis:
+- File entropy: 4.26
+==================================================
+Analysis for: Malware2.py
+==================================================
+String Analysis:
+- Number of suspicious paths: 0
+
+Entropy Analysis:
+- File entropy: 4.74
+==================================================
+Analysis for: reset_vm.sh
+==================================================
+String Analysis:
+- Number of suspicious paths: 0
+
+Entropy Analysis:
+- File entropy: 5.19
